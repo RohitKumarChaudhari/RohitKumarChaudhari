@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RohitKumarChaudhari
-- 👀 I’m interested in Robotics
+- 👀 I’m interested in Robotics, Game Development, and Python. 
 - 🌱 I’m currently learning C++, C# and Python
 - 💞️ I’m looking to collaborate on a Robotics project and Game Development.
 - 📫 How to reach me rohitkuarm5667@gmail.com
