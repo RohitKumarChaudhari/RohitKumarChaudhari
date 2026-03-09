@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Rohit Kumar Chaudhari  
 - 🎓 B.Tech in Automation & Robotics | PTU  
-- 🐍 Python | C++ | C# | Web Automation | API Integration  
+- 🐍 Python | C++ | C# | Web Automation | API Integration | ROS2-JAZZY 
 - 🤖 Passionate about Robotics, Game Development & Automation  
 - 🛠️ Built projects using Tkinter, APIs, and Python scripting  
 - 🚀 Looking to collaborate on Robotics, Automation, or AI projects  
